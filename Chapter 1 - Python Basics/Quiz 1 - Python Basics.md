@@ -28,7 +28,8 @@ Use the IPython Shell for experimentation, and the script to write successive li
 
 Python scripts have the extension `.py`. `my_analysis.py` is an example of a script name.
 
-You need to print the result of adding 3 and 4 inside a script. Which line of code should you write in the script?
+
+**Q.3 You need to print the result of adding 3 and 4 inside a script. Which line of code should you write in the script?**
 
 - `print 3 + 4`
 - `print(3 + 4)` **correct**
