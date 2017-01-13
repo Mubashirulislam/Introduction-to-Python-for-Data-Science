@@ -17,7 +17,7 @@ Use the IPython Shell for experimentation, and the script to write successive li
 
 **Q.2 Which file extension is used for Python script files?**
 
-- **** `.script`
+- `.script`
 
 -  `.pyscript`
 
